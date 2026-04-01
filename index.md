@@ -18,16 +18,21 @@ int main() {
 }
 ```
 This site was made with ~~ChatGPT~~ [GitHub Pages](https://pages.github.com/).
+
 Link back to my name: [Link Text](#dmitri-singer)
+
 Go to Tilted Towers: [Tilted Towers](userpage\tiltedtowers.jpg)
+
 Some movies I like:
 - Interstellar
 - Everything Everywhere All At Once
 - Soul
+
 Ranking my top 3 programming languages:
 1. C++
 2. Golang
 3. Python
+
 Tasks to do:
 - [] Finish my personal project
 - [] Apply to more internships
