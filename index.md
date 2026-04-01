@@ -1,4 +1,4 @@
-![ryan gosling fortnite](userpage/ryangoslingfortnite.png)
+![ryan gosling fortnite](userpage\assets\ryangoslingfortnite.png)
 # Dmitri Singer
 ## UCSD Class of 2027
 ### Computer Science
@@ -21,7 +21,7 @@ This site was made with ~~ChatGPT~~ [GitHub Pages](https://pages.github.com/).
 
 Link back to my name: [Link Text](#dmitri-singer)
 
-Go to Tilted Towers: [Tilted Towers](userpage/tiltedtowers.jpg)
+Go to Tilted Towers: [Tilted Towers](userpage\assets\tiltedtowers.jpg)
 
 Some movies I like:
 - Interstellar
